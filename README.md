@@ -7,7 +7,7 @@
 
 - :euro: I’m working as a Senior Data & AI Consultant and contributing to frontend and backend for AI applications to power enterprise business in Germany.
 
-- 🔍: Having fun learning "no-JS" web-development - just [FastAPI](https://fastapi.tiangolo.com/) and [HTMX](https://htmx.org/). 
+- 🔍: Having fun learning "no-JS" web-development - just [FastAPI](https://fastapi.tiangolo.com/) and [HTMX](https://htmx.org/) = 🎉. 
 
 - 🎹: In my free time, I dabble in electronic music production and synthesizers.
 
