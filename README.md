@@ -5,11 +5,11 @@
 
 ### :technologist: About Me
 
-- :euro: I’m working as a Senior Data & AI Consultant and contributing to frontend and backend for AI applications to power enterprise business in Germany.
+- :euro: I’m working as a Senior Data & AI Consultant contributing to frontend and backend development development of Gen-AI web-apps.
 
 - 🔍: Having fun learning "no-JS" web-development - just [FastAPI](https://fastapi.tiangolo.com/) and [HTMX](https://htmx.org/) = 🎉. 
 
-- 🎹: In my free time, I dabble in electronic music production and synthesizers.
+- 🎹: In my free time, I dabble in electronic music production (synths, key, sampling).
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Linkedin-Profile-blue)](https://www.linkedin.com/in/daniel-gray-dsotm-rsa/)
 
