@@ -5,7 +5,7 @@
 
 ### :technologist: About Me
 
-- :euro: I’m working as a Senior Data & AI Consultant contributing to frontend and backend development development of Gen-AI web-apps.
+- :euro: I’m working as a Senior Data & AI Consultant with a focus on the development/integration of Gen-AI web-apps.
 
 - 🔍: Having fun learning "no-JS" web-development - just [FastAPI](https://fastapi.tiangolo.com/) and [HTMX](https://htmx.org/) = 🎉. 
 
