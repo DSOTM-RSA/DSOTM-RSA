@@ -36,8 +36,6 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=dsotm-rsa&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=dsotm-rsa&theme=vue-dark&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dsotm-rsa&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 
