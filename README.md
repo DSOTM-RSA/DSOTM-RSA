@@ -9,7 +9,7 @@
  <img  src="https://github.com/egonelbre/gophers/blob/master/vector/projects/network.svg" width="120" height="120" /> <img  src="https://github.com/egonelbre/gophers/blob/master/vector/adventure/hiking.svg"  width="150" height="150" /> <img src="https://github.com/egonelbre/gophers/blob/master/vector/computer/music.svg" width="120" height="120" />
 - :euro: I’m working as a Senior Data & AI Consultant with a focus on the development/integration of Gen-AI solutions. 
 
-- 🔍: Learnt "no-JS" web-development - just [FastAPI](https://fastapi.tiangolo.com/) and [HTMX](https://htmx.org/) = 🎉. Now focusing on ~~Go!~~ Flutter & Dart. 
+- 🔍: Learnt "no-JS" web-development - just [FastAPI](https://fastapi.tiangolo.com/) and [HTMX](https://htmx.org/) = 🎉. Now focusing on ~~Go!~~  Flutter & Python ~~Dart~~. 😅
 
 - 🎹: In my free time, I dabble in electronic music production.
 
