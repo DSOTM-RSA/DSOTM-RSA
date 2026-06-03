@@ -5,7 +5,7 @@
 
 ### :technologist: About Me
 
-- :euro: I’m working as a Lead Fucnitonal Consultant (Data & AI) with a focus on the development/integration of Gen-AI solutions. 
+- :euro: I’m working as a Lead Functional Consultant (Data & AI) with a focus on the development/integration of Gen-AI solutions. 
 
 - 🔍: Diverted into "no-JS" web-development - just [FastAPI](https://fastapi.tiangolo.com/) and [HTMX](https://htmx.org/) = 🎉. Now focusing on ~~Go!~~  Python & Flutter ~~Dart~~.
 
