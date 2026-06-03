@@ -5,28 +5,28 @@
 
 ### :technologist: About Me
 
+- :euro: I’m working as a Lead Fucnitonal Consultant (Data & AI) with a focus on the development/integration of Gen-AI solutions. 
 
- <img  src="https://github.com/egonelbre/gophers/blob/master/vector/projects/network.svg" width="120" height="120" /> <img  src="https://github.com/egonelbre/gophers/blob/master/vector/adventure/hiking.svg"  width="150" height="150" /> <img src="https://github.com/egonelbre/gophers/blob/master/vector/computer/music.svg" width="120" height="120" />
-- :euro: I’m working as a Senior Data & AI Consultant with a focus on the development/integration of Gen-AI solutions. 
+- 🔍: Diverted into "no-JS" web-development - just [FastAPI](https://fastapi.tiangolo.com/) and [HTMX](https://htmx.org/) = 🎉. Now focusing on ~~Go!~~  Python & Flutter ~~Dart~~.
 
-- 🔍: Learnt "no-JS" web-development - just [FastAPI](https://fastapi.tiangolo.com/) and [HTMX](https://htmx.org/) = 🎉. Now focusing on ~~Go!~~  Flutter & Python ~~Dart~~. 😅
-
-- 🎹: In my free time, I dabble in electronic music production.
+- 🎹: In my free time, I like to travel, love everthing to do with music, and build personal projects.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Linkedin-Profile-blue)](https://www.linkedin.com/in/daniel-gray-dsotm-rsa/)
 
-### :hammer_and_wrench: Languages and Tools
+### :hammer_and_wrench: Languages and Ecosystems
 
 <div>
   
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/htmx/htmx-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"  width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/htmx/htmx-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" />
+  
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" />
   
 </div>
 
