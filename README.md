@@ -7,7 +7,7 @@
 
 - :euro: I’m working as a Lead Functional Consultant (Data & AI) with a focus on the development/integration of Gen-AI solutions. 
 
-- 🔍: Diverted into "no-JS" web-development - just [FastAPI](https://fastapi.tiangolo.com/) and [HTMX](https://htmx.org/) = 🎉. Now focusing on ~~Go!~~  Python & Flutter ~~Dart~~.
+- 🔍: Diverted into "no-JS" web-development - just [FastAPI](https://fastapi.tiangolo.com/) and [HTMX](https://htmx.org/) = 🎉. Now focusing on spec-driven development with herdr (powered by Claude) and ocassional ~~Go!~~  Python & Flutter ~~Dart~~.
 
 - 🎹: In my free time, I like to travel, love everthing to do with music, and build personal projects.
 
